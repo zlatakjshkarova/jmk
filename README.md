@@ -1,2 +1,2 @@
 # milenakomp
- https://zlatakjshkarova.github.io/milenakomp/
+ https://zlatakjshkarova.github.io/jmk/
